@@ -10,6 +10,6 @@ Currently I work as a Software Consultant and study software engineering. My mai
 
 -Data Engineering
 
--Software project management
+-Software development
 
 
