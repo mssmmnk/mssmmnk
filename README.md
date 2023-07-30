@@ -13,21 +13,3 @@ Currently I work as a Software Consultant and study software engineering. My mai
 -Software project management
 
 
-_____________________________________________________________________________________________________________________________________________________________________________________________________________________________
-
-Hard skills: 
-
--Python for data science (scikitlearn, plotly and tensorflow)  
-
--Python development and deploy (Django and Flask)
-
--PowerBi and Excel for data manipulation and visualization
-
--SQL
-
--knowledge in java, javascript and c++
-
--Basic understanding of containerization, orchestration and infrastructure as code (Docker, Kubernetes and Terraform)
-
--Main services provided by AWS and basic concepts of cloud computing
-
