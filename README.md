@@ -2,9 +2,9 @@
 Hey, I am Marina :) 
 Welcome to my github repository. Here you will find small personal projects and study notes. 
 
-I studied biological sciences and from the beginning of my course I was interested in informatics and data science, and that was my gateway to the tech universe.
+I'm a biologist who works with technology as a Software/Software Architecture Consultant in Germany and here I show some of my personal projects.
 
-Currently I work as a Software Consultant. My main interests are:
+My main interests are:
 
 -Cloud computing
 
