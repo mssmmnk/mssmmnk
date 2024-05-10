@@ -10,6 +10,6 @@ Currently I work as a Software Consultant. My main interests are:
 
 -Data Engineering
 
--Software development
+-DevOps and infrastructure
 
 
